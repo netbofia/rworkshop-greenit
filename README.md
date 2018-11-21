@@ -13,3 +13,13 @@ Latop 3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 Latop 4: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/netbofia/rworkshop-greenit/laptop4)
 
 Latop 5: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/netbofia/rworkshop-greenit/laptop5)
+
+Latop 6: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/netbofia/rworkshop-greenit/laptop6)
+
+Latop 7: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/netbofia/rworkshop-greenit/laptop7)
+
+Latop 8: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/netbofia/rworkshop-greenit/laptop8)
+
+Latop 9: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/netbofia/rworkshop-greenit/laptop9)
+
+Latop 10: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/netbofia/rworkshop-greenit/laptop10)
