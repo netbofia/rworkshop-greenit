@@ -1,6 +1,6 @@
 ## GREEN IT - Introduction to R Workshop
 
-If you wish to try out these notebooks without having to preform any installation procedures use one of the links bellow, don't forget to download a copy of your notebook because once you leave it will restart.  
+If you wish to try out these notebooks, without having to preform any installation procedures, just use one of the links below. Don't forget to download a copy of your notebook once your done, because once you leave it will restart.  
 
 #### To run a notebook on your laptop click on the badge bellow:
 
