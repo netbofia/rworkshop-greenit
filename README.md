@@ -1,6 +1,8 @@
-#### GREEN IT - Introduction to R Workshop
+## GREEN IT - Introduction to R Workshop
 
-To run a notebook on your laptop click on the badge bellow:
+If you wish to try out these notebooks without having to preform any installation procedures use one of the links bellow, don't forget to download a copy of your notebook because once you leave it will restart.  
+
+#### To run a notebook on your laptop click on the badge bellow:
 
 Laptop 0: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/netbofia/rworkshop-greenit/master)
 
